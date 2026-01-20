@@ -46,7 +46,7 @@ The solution includes data generation, preprocessing, model training, evaluation
 ## 🏆 Final Model
 
 * **Model:** EasyEnsembleClassifier
-* **Threshold:** 0.4
+* **Threshold:** 0.46
 * Optimized for **fraud recall and F1-score**
 
 ---
